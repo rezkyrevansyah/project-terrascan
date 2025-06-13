@@ -107,4 +107,4 @@ if uploaded_file is not None:
 
 # Tambahkan footer
 st.markdown("---")
-st.caption("© 2024 TerraScan - Aplikasi Klasifikasi Jenis Tanah")
+st.caption("© 2025 TerraScan - Aplikasi Klasifikasi Jenis Tanah")
