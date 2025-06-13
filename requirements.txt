@@ -1,5 +1,6 @@
-matplotlib==3.10.3
-numpy==2.1.3
-pillow==11.2.1
-streamlit==1.45.1
-tensorflow==2.19.0
+streamlit==1.29.0
+tensorflow==2.16.1  # Newer stable version
+numpy==1.26.4      # Compatible with TF 2.16
+pillow==10.3.0      # Updated but stable
+protobuf==3.20.3    # Prevents serialization issues
+matplotlib==3.8.3   # Compatible mid-range version
