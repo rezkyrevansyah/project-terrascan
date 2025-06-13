@@ -41,7 +41,7 @@ SUPPORTED_SOILS = [
 
 # UI
 st.title("🌍 TerraScan – Klasifikasi Jenis Tanah")
-st.write("Upload foto tanah, dan sistem akan memprediksi jenis tanah, status kesuburannya, serta memberikan penjelasan.")
+st.write("Upload foto tanah, dan sistem akan memprediksi jenis tanah, status kesuburannya, serta memberikan penjelasan. *app masih proses improvement")
 
 # Tampilkan informasi jenis tanah yang didukung
 with st.expander("📋 Jenis Tanah yang Dapat Diprediksi", expanded=True):
